@@ -1,0 +1,17 @@
+.table td,
+.table thead th {
+	vertical-align: middle !important;
+	text-align: center;
+}
+
+.table thead th {
+	border-bottom: 2px solid #475f7b;
+}
+
+.dataTable-table {
+	@extend .table;
+}
+
+.dataTable-container {
+	overflow-x: auto;
+}

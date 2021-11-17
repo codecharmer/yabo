@@ -1,0 +1,73 @@
+@charset "UTF-8";
+
+@import "~simple-datatables/dist/style.css";
+
+/** 1. Variables  **/
+@import "./variables";
+@import "./main";
+
+/** 2.1 Alert  **/
+@import "./components/alert";
+
+/** 2.2 Avatar **/
+@import "./components/avatar";
+
+/** 2.3 Badge **/
+@import "./components/badge";
+
+/** 2.4 Buttons **/
+@import "./components/buttons";
+
+/** 2.5 Breadcrumb **/
+@import "./components/breadcrumb";
+
+/** 2.6 Carousel **/
+@import "./components/carousel";
+
+/** 2.7 Divider **/
+@import "./components/divider";
+
+/** 2.8 Dropdowns **/
+@import "./components/dropdowns";
+
+/** 2.9 Forms **/
+@import "./components/forms";
+
+/** 2.10 Modal **/
+@import "./components/modal";
+
+/** 2.11 Sidebar **/
+@import "./components/sidebar";
+
+/** 2.12 Card **/
+@import "./components/card";
+
+/** 2.13 Navs **/
+@import "./components/navs";
+
+/** 2.14 Navbar **/
+@import "./components/navbar";
+
+/** 2.15 Pagination **/
+@import "./components/pagination";
+
+/** 2.16 Table **/
+@import "./components/table";
+
+/** 2.17 Progress **/
+@import "./components/progress";
+
+/** 3.1 Chat **/
+@import "./widgets/chat";
+
+/** 3.1 Todo **/
+@import "./widgets/todo";
+
+/** 4.1 Auth Pages **/
+@import "./pages/auth";
+
+/** 4.1 Error Pages **/
+@import "./pages/error";
+
+/** 5. Utilities **/
+@import "./utilities";
